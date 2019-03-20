@@ -1,0 +1,6 @@
+{Mod
+	{Name "GEM-X.X.X"}
+	{Desc "GitHub variant."}
+	{MinGameVersion "1.1"}
+	{MaxGameVersion "3.265"}
+}
